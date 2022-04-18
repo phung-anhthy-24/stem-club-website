@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.09be9d23.css",
+    "main.js": "/static/js/main.68341a67.js",
+    "static/js/787.eb3da103.chunk.js": "/static/js/787.eb3da103.chunk.js",
+    "static/media/blog-cover.png": "/static/media/blog-cover.57c4d92046f9c7412aa5.png",
+    "static/media/blog-picture1.png": "/static/media/blog-picture1.740487b544b6ab1d1916.png",
+    "static/media/blog-picture2.png": "/static/media/blog-picture2.a704e6f4f13f95f7824e.png",
+    "static/media/lp.png": "/static/media/lp.4b56a691fd2ebf450b38.png",
+    "static/media/phu.png": "/static/media/phu.a302ce205c785b999422.png",
+    "static/media/khoi.png": "/static/media/khoi.2d53ccfe622fdb49ee6a.png",
+    "static/media/kinho.jpg": "/static/media/kinho.07265974af5f48592d24.jpg",
+    "static/media/cover.png": "/static/media/cover.74241957abab7371fdf0.png",
+    "static/media/thayminh.jpg": "/static/media/thayminh.a8eb1c3628c6a5be3d67.jpg",
+    "static/media/thaykien.jpg": "/static/media/thaykien.9e64b1dc4138a40c0021.jpg",
+    "static/media/stem-club-logo.png": "/static/media/stem-club-logo.17416a1bf7ab16ee321a.png",
+    "static/media/gdsc.png": "/static/media/gdsc.d9fe0d840200055730a4.png",
+    "static/media/nanette.jpg": "/static/media/nanette.1a2e824cc0c93a434081.jpg",
+    "index.html": "/index.html",
+    "main.09be9d23.css.map": "/static/css/main.09be9d23.css.map",
+    "main.68341a67.js.map": "/static/js/main.68341a67.js.map",
+    "787.eb3da103.chunk.js.map": "/static/js/787.eb3da103.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09be9d23.css",
+    "static/js/main.68341a67.js"
+  ]
+}
