@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.fe2da8e2.css",
-    "main.js": "/static/js/main.d3ea677c.js",
+    "main.css": "/static/css/main.3d650976.css",
+    "main.js": "/static/js/main.8d6f9dc9.js",
     "static/js/787.eb3da103.chunk.js": "/static/js/787.eb3da103.chunk.js",
     "static/media/blog-cover.png": "/static/media/blog-cover.57c4d92046f9c7412aa5.png",
     "static/media/blog-picture1.png": "/static/media/blog-picture1.740487b544b6ab1d1916.png",
@@ -15,15 +15,19 @@
     "static/media/dummypj1.png": "/static/media/dummypj1.1fd303704fd2b7677c0f.png",
     "static/media/dummypj2.png": "/static/media/dummypj2.33fad48b64eaaeb83920.png",
     "static/media/dummy1.png": "/static/media/dummy1.a9e539c0cf206f334f2c.png",
+    "static/media/community.png": "/static/media/community.0deff2120c7bd1a5f745.png",
     "static/media/stem-club-logo.png": "/static/media/stem-club-logo.17416a1bf7ab16ee321a.png",
     "static/media/dummycompetition1.png": "/static/media/dummycompetition1.034c71d41e53fa91337d.png",
+    "static/media/intellectual.png": "/static/media/intellectual.63eccf4ac361d86caaab.png",
+    "static/media/career.png": "/static/media/career.45daf956bad3f3cd7de7.png",
+    "static/media/connected.png": "/static/media/connected.872c7963ae8c40629156.png",
     "index.html": "/index.html",
-    "main.fe2da8e2.css.map": "/static/css/main.fe2da8e2.css.map",
-    "main.d3ea677c.js.map": "/static/js/main.d3ea677c.js.map",
+    "main.3d650976.css.map": "/static/css/main.3d650976.css.map",
+    "main.8d6f9dc9.js.map": "/static/js/main.8d6f9dc9.js.map",
     "787.eb3da103.chunk.js.map": "/static/js/787.eb3da103.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fe2da8e2.css",
-    "static/js/main.d3ea677c.js"
+    "static/css/main.3d650976.css",
+    "static/js/main.8d6f9dc9.js"
   ]
 }
