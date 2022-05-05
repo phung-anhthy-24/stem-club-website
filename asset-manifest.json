@@ -1,28 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.09be9d23.css",
-    "main.js": "/static/js/main.68341a67.js",
+    "main.css": "/static/css/main.fe2da8e2.css",
+    "main.js": "/static/js/main.d3ea677c.js",
     "static/js/787.eb3da103.chunk.js": "/static/js/787.eb3da103.chunk.js",
     "static/media/blog-cover.png": "/static/media/blog-cover.57c4d92046f9c7412aa5.png",
     "static/media/blog-picture1.png": "/static/media/blog-picture1.740487b544b6ab1d1916.png",
     "static/media/blog-picture2.png": "/static/media/blog-picture2.a704e6f4f13f95f7824e.png",
-    "static/media/lp.png": "/static/media/lp.4b56a691fd2ebf450b38.png",
-    "static/media/phu.png": "/static/media/phu.a302ce205c785b999422.png",
-    "static/media/khoi.png": "/static/media/khoi.2d53ccfe622fdb49ee6a.png",
-    "static/media/kinho.jpg": "/static/media/kinho.07265974af5f48592d24.jpg",
-    "static/media/cover.png": "/static/media/cover.74241957abab7371fdf0.png",
-    "static/media/thayminh.jpg": "/static/media/thayminh.a8eb1c3628c6a5be3d67.jpg",
-    "static/media/thaykien.jpg": "/static/media/thaykien.9e64b1dc4138a40c0021.jpg",
+    "static/media/dummypj3.png": "/static/media/dummypj3.37723bc90c8d3715b205.png",
+    "static/media/dummycompetition2.png": "/static/media/dummycompetition2.80f080a0edd44261d046.png",
+    "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.c1d7432ee75fa194e499.woff",
+    "static/media/dummypj4.png": "/static/media/dummypj4.e77d764df4a39ae14f21.png",
+    "static/media/dummy2.png": "/static/media/dummy2.455c6d77d50c4d2fd751.png",
+    "static/media/bootstrap-icons.woff2?": "/static/media/bootstrap-icons.a13b815539b49de48d23.woff2",
+    "static/media/dummypj1.png": "/static/media/dummypj1.1fd303704fd2b7677c0f.png",
+    "static/media/dummypj2.png": "/static/media/dummypj2.33fad48b64eaaeb83920.png",
+    "static/media/dummy1.png": "/static/media/dummy1.a9e539c0cf206f334f2c.png",
     "static/media/stem-club-logo.png": "/static/media/stem-club-logo.17416a1bf7ab16ee321a.png",
-    "static/media/gdsc.png": "/static/media/gdsc.d9fe0d840200055730a4.png",
-    "static/media/nanette.jpg": "/static/media/nanette.1a2e824cc0c93a434081.jpg",
+    "static/media/dummycompetition1.png": "/static/media/dummycompetition1.034c71d41e53fa91337d.png",
     "index.html": "/index.html",
-    "main.09be9d23.css.map": "/static/css/main.09be9d23.css.map",
-    "main.68341a67.js.map": "/static/js/main.68341a67.js.map",
+    "main.fe2da8e2.css.map": "/static/css/main.fe2da8e2.css.map",
+    "main.d3ea677c.js.map": "/static/js/main.d3ea677c.js.map",
     "787.eb3da103.chunk.js.map": "/static/js/787.eb3da103.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.09be9d23.css",
-    "static/js/main.68341a67.js"
+    "static/css/main.fe2da8e2.css",
+    "static/js/main.d3ea677c.js"
   ]
 }
