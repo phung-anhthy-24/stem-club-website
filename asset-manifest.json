@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.05aea19f.css",
-    "main.js": "/static/js/main.4f3603ff.js",
+    "main.css": "/static/css/main.f8a73db7.css",
+    "main.js": "/static/js/main.db7e966c.js",
     "static/js/787.eb3da103.chunk.js": "/static/js/787.eb3da103.chunk.js",
     "static/media/connected.jpg": "/static/media/connected.2877850a4c99805cf09a.jpg",
     "static/media/intellectual.jpg": "/static/media/intellectual.0fec74221ad243b5e3af.jpg",
@@ -15,12 +15,12 @@
     "static/media/background.png": "/static/media/background.df4f0aa26fa4f8bacc65.png",
     "static/media/stem-club-logo.png": "/static/media/stem-club-logo.17416a1bf7ab16ee321a.png",
     "index.html": "/index.html",
-    "main.05aea19f.css.map": "/static/css/main.05aea19f.css.map",
-    "main.4f3603ff.js.map": "/static/js/main.4f3603ff.js.map",
+    "main.f8a73db7.css.map": "/static/css/main.f8a73db7.css.map",
+    "main.db7e966c.js.map": "/static/js/main.db7e966c.js.map",
     "787.eb3da103.chunk.js.map": "/static/js/787.eb3da103.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.05aea19f.css",
-    "static/js/main.4f3603ff.js"
+    "static/css/main.f8a73db7.css",
+    "static/js/main.db7e966c.js"
   ]
 }
