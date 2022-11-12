@@ -34,8 +34,8 @@ export const Name = styled.div`
     font-family: 'Montserrat';
     font-style: normal;
     font-weight: 700;
-    font-size: 20px;
-    line-height: 24px;
+    font-size: 14px;
+    line-height: 20px;
     align-items: center;
     text-align: center;
     letter-spacing: -0.02em;
@@ -55,8 +55,8 @@ export const CopyRight = styled.div`
     font-family: 'Montserrat';
     font-style: normal;
     font-weight: 400;
-    font-size: 14px;
-    line-height: 20px;
+    font-size: 12px;
+    line-height: 18px;
     align-items: center;
     text-align: center;
     letter-spacing: -0.02em;
@@ -87,7 +87,7 @@ export const Row = styled.div`
 `;
 
 export const Heading = styled.p`
-  font-size: 15px;
+  font-size: 14px;
   font-family: 'Montserrat';
   font-weight: bold;
   margin-top: 16%;
@@ -105,8 +105,8 @@ export const FooterLink = styled.a`
     font-family: "Montserrat";
     font-style: normal;
     font-weight: 400;
-    font-size: 14px;
-    line-height: 20px;
+    font-size: 12px;
+    line-height: 18px;
     display: flex;
     align-items: center;
     text-align: center;
